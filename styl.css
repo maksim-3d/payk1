@@ -23,6 +23,9 @@ body {
     text-align: left;
     margin-top: 550px;
 }
+#imageToMove{
+    position: absolute;
+}
 #image5 {
       position: absolute;
       height: 30px;
